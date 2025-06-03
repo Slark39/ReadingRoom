@@ -1,1 +1,0 @@
-(self.webpackChunkbsc_test_react=self.webpackChunkbsc_test_react||[]).push([[7131],{6948:()=>{},60782:()=>{}}]);

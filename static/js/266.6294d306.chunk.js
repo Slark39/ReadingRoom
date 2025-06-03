@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbsc_test_react=self.webpackChunkbsc_test_react||[]).push([[266],{90266:(e,s,t)=>{t.r(s),t.d(s,{default:()=>c.n});var c=t(43130)}}]);
